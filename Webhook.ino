@@ -1,16 +1,4 @@
-ete.
 
-2
-
-
-
-Martin
-Jun '19
-Thank you so much for the help!!!
-
-I guess it makes sense to read error messages >.>
-
-If anyone else is looking to do something similar this is my final code, with a WebHook widget in the app attached to V8.
 
 #include <ArduinoJson.h>
 #define BLYNK_PRINT Serial
